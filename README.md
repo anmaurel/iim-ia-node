@@ -14,5 +14,5 @@ npm run dev
 
 ### Routes
 
-exo1. Dijkstra [/three](http://localhost/#/three)
+exo1. Dijkstra [/three](http://localhost/#/three)  
 exo3. Puissance 4 [/p4](http://localhost/#/p4)
