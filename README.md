@@ -1,7 +1,3 @@
-# vue
-
-> A Vue.js project
-
 ## Build Setup
 
 ``` bash
@@ -12,7 +8,8 @@ npm install
 npm run dev
 ```
 
-### Routes
+## Exo1. Dijkstra
+[/three](http://localhost:8080/#/three)  
 
-exo1. Dijkstra [/three](http://localhost:8080/#/three)  
-exo3. Puissance 4 [/p4](http://localhost:8080/#/p4)
+## Exo3. Puissance 4
+[/p4](http://localhost:8080/#/p4)
